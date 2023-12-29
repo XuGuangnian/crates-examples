@@ -1,0 +1,11 @@
+[workspace]
+members = [
+  "log4rs-example",
+  "path-slash-example",
+  "walkdir-example",
+  "std-example",
+  "number-prefix-example",
+  "ssh2-example",
+]
+
+resolver = "2"
